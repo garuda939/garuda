@@ -1,0 +1,9 @@
+Hostname2 : 00900BC83803
+User2 : Administrator
+--- OS INFO ---
+Product: Windows 10 Enterprise LTSC 2021
+--- CPU INFO ---
+AMD EPYC 7402 24-Core Processor                 | AMD EPYC 7402 24-Core Processor                 | 
+--- MEMORY ---
+Total: 4 GB
+Free: 2 GB
