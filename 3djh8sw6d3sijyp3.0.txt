@@ -1,9 +1,0 @@
-Hostname2 : NOTE-GW6352
-User2 : Bruno
---- OS INFO ---
-Product: Windows 11 Enterprise
---- CPU INFO ---
-           Intel(R) Xeon(R) CPU @ 2.80GHz |            Intel(R) Xeon(R) CPU @ 2.80GHz |            Intel(R) Xeon(R) CPU @ 2.80GHz |            Intel(R) Xeon(R) CPU @ 2.80GHz | 
---- MEMORY ---
-Total: 7 GB
-Free: 2 GB

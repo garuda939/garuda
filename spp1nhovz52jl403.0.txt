@@ -1,9 +1,0 @@
-Hostname2 : Ahzcpuff
-User2 : Admin
---- OS INFO ---
-Product: Windows 10 Enterprise
---- CPU INFO ---
-Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | Intel Core Processor (Broadwell) | 
---- MEMORY ---
-Total: 16 GB
-Free: 2 GB

@@ -1,9 +1,0 @@
-Hostname2 : PMZB13190747399
-User2 : Administrator
---- OS INFO ---
-Product: Windows 10 Pro
---- CPU INFO ---
-Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz | Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz | Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz | Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz | 
---- MEMORY ---
-Total: 1 GB
-Free: 1 GB

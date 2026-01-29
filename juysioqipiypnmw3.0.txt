@@ -1,9 +1,0 @@
-Hostname2 : Wasp
-User2 : Janet Van Dyne
---- OS INFO ---
-Product: Windows 11 Enterprise
---- CPU INFO ---
-Intel(R) Celeron(R) CPU G3930TE @ 2.70GHz | Intel(R) Celeron(R) CPU G3930TE @ 2.70GHz | 
---- MEMORY ---
-Total: 15 GB
-Free: 13 GB

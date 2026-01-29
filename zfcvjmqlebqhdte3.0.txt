@@ -1,9 +1,0 @@
-Hostname2 : STGARDNER
-User2 : ajeherna
---- OS INFO ---
-Product: Windows 10 Enterprise
---- CPU INFO ---
-AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | AMD EPYC 7763 64-Core Processor                 | 
---- MEMORY ---
-Total: 16 GB
-Free: 0 GB

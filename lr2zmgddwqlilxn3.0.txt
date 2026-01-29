@@ -1,9 +1,0 @@
-Hostname2 : JOHN-PC
-User2 : John
---- OS INFO ---
-Product: Windows 10 Enterprise
---- CPU INFO ---
-Intel(R) Xeon(R) Platinum 8160 CPU @ 2.10GHz | Intel(R) Xeon(R) Platinum 8160 CPU @ 2.10GHz | 
---- MEMORY ---
-Total: 7 GB
-Free: 3 GB

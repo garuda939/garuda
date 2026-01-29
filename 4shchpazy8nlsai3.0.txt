@@ -1,9 +1,0 @@
-Hostname2 : zds_fedr_ol_client_48
-User2 : Administrator
---- OS INFO ---
-Product: Windows 10 Enterprise LTSC 2019
---- CPU INFO ---
-Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz | 
---- MEMORY ---
-Total: 0 GB
-Free: 0 GB
