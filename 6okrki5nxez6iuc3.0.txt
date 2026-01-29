@@ -1,0 +1,9 @@
+Hostname2 : JOHN-PC
+User2 : John
+--- OS INFO ---
+Product: Windows 10 Enterprise
+--- CPU INFO ---
+Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz | Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz | 
+--- MEMORY ---
+Total: 3 GB
+Free: 2 GB
